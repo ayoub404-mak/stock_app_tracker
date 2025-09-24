@@ -18,7 +18,7 @@ import {Button} from "@/components/ui/button";
 
 import React from 'react'
 import { LogOut } from "lucide-react";
-import { NAV_ITEMS } from "@/lib/constant";
+import { NAV_ITEMS } from "@/lib/constants";
 import NavItems from "./Navltems";
 
 
